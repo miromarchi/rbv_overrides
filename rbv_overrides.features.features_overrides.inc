@@ -51,8 +51,6 @@ function rbv_overrides_features_override_default_overrides() {
   // Exported overrides for: og_membership_type
   $overrides["og_membership_type.og_membership_type_default.language"] = '';
 
-  // Exported overrides for: page_manager_handlers
-
   // Exported overrides for: page_manager_pages
   $overrides["page_manager_pages.panopoly_search.default_handlers|page_panopoly_search_panel_context_3|conf|display|content|new-10"] = (object) array(
       'pid' => 'new-10',
